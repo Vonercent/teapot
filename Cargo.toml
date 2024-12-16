@@ -1,0 +1,8 @@
+[package]
+name = "spinning-teapot"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+glium = { version = "0.36", features = ["simple_window_builder"] }
+rodio = "0.20.1"

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Teapot
+Comment=The teapot go spin spin
+Name[de]=Teekanne
+Comment[de]=Die Teekanne dreht sich
+Categories=Utility
+Exec=teapot
+Icon=wayland
+Terminal=false
